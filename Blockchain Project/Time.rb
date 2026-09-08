@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #time class
 
 class Time

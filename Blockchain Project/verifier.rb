@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #main file
 
 require 'flamegraph'

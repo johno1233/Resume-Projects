@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #test hash
 
 require 'minitest/autorun'

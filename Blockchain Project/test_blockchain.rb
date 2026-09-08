@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 # test blockchain.rb
 
 require 'minitest/autorun'

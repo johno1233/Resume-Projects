@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #blockchain 
 
 require_relative "Hash.rb"

@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #hash function
 
 

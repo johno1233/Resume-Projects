@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #Block 
 
 require_relative "Transaction.rb"

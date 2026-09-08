@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 # test_block
 
 require 'minitest/autorun'

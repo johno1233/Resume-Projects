@@ -1,4 +1,4 @@
-#John Wartonick
+# Author removed
 #args checker test file
 require 'minitest/autorun'
 
